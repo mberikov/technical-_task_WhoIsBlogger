@@ -1,1 +1,1 @@
-# technical-_task_WhoIsBlogger
+# Техническое задание на собеседование на должность аналитика данных в WhoIsBlogger(WIB)
